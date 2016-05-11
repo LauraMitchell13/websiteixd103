@@ -19,7 +19,7 @@ body {
 
         margin: auto;
 
-    background-image: url(../images/background3.jpg);
+    background-image: url(../images/websitebackground.png);
 
 
 
@@ -42,16 +42,16 @@ section {padding: 2em 0 2em 0}
 
     /* ----------------TYPOGRAPHY------------------ */
 
- 
 
 
-h1, h2 {
 
-font-weight: normal;
+h2 {
+
+font-weight: 400;
     
-    font-family: 'Keania One', cursive;
+    font-family: 'Poiret', Arial, serif;
 
-    color; #darkred;
+    color; #2c072d;
 
     line-height: 1.5em;
 
