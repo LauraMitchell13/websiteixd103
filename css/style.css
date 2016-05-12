@@ -132,6 +132,11 @@ img {
     margin-top: 0em;
 }
 
+.monogram {
+    padding-bottom: 4em;
+    padding-top: 4em;
+}
+
 
 
 .icons {
@@ -164,6 +169,33 @@ img {
     
 }
 
+.portfolio {
+    text-align:center;
+    position:relative;
+    margin: auto 0;
+}
+
+portfolio ul{
+    margin: 0;
+    padding -5em;
+}
+
+.portfolio li {
+    margin: 0 7px;
+    padding: -5em;
+    list-style: none;
+    display: inline-block;
+}
+
+
+.portfolio img {
+    width: 350px;
+    height:250px;
+    opacity: 100%;
+    border: none;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
 
 
     /*-----------------NAV-------------*/
