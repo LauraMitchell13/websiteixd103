@@ -164,23 +164,6 @@ img {
     
 }
 
-.social a {
-  opacity: 0.3;
-  transition: opacity .25s ease-in-out;
-   -moz-transition: opacity .25s ease-in-out;
-   -webkit-transition: opacity .25s ease-in-out;
-}
-
-.social a:hover {
-  opacity: 0.8;
-}
-
-.social li {
-  display: inline;
-  margin: 5px;
-  color: #444;
-}
-
 
 
 .social {
