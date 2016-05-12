@@ -199,6 +199,8 @@ width: 100%;
     
 nav ul {
     text-align: center; 
+    text-transform:lowercase;
+    color: #993399;
     letter-spacing: 2px;
     }
     
@@ -209,8 +211,12 @@ nav ul {
 
 	}
     
-a:hover {
-    color: #540656;
+nav li:
+ { display: inline-block;
+     margin-bottom: 8px;
+     padding-bottom: 2em;
+    
+    
 }
 
 
