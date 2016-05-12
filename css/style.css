@@ -22,9 +22,23 @@ body {
     line-height: 1.8em;
 
     background-image:
-        width: 100%;
-    
-        url(../images/websitebackground2.png);
+     url(../images/websitebackground2.png);
+}
+
+.home {
+    background: #993399;
+}
+
+.about me{
+    background: #540656;
+}
+
+.my work{
+    background: #993399;
+}
+
+.contact me{
+    background: #540656;
 }
 
 
@@ -162,7 +176,7 @@ p {
     /*-----------------IMAGES------------*/
 
 img {
-    display:block;
+    display:inherit;
     max-width: 50%;
     margin: 0em auto;
     margin-bottom: 0em;
@@ -192,6 +206,8 @@ img {
 }
 
 .home {
+    margin-bottom: auto;
+    margin-top: auto;
     
 }
 
@@ -246,3 +262,9 @@ nav ul {
     li { display: inline;
     
     }
+
+
+
+
+
+box-decoration-break: 6px 4px 4px #888888;
