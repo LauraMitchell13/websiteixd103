@@ -5,7 +5,7 @@
     line-height: 1em;
 }
 
-head {
+body {
 
     width: 75%;
 
@@ -15,128 +15,100 @@ head {
 
         font-size: 100%;
 
-        font-family: 'Poiret', Arial, serif;
+        font-family: 'Raleway', monospace;
 
         margin: auto;
-    colour: #2c072d;
-    line-height: 1.8em;
-background: #28b7c4;
+    color:black;
+line-height: 1.8em;
+    background-image: url(../images/background3.jpg);}
+
+article { 
+    background: rgba(255, 255, 255, 0.9);
+    width: 100%;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    box-decoration-break: 6px 4px 4px #888888;
+    margin-top: 1em;
+    }
+
+ /*--------------TYPOGRAPHY---------------*/ 
+
+footer {
+    font-size: 0.9em;
+    line-height: 2em;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
 }
 
- body { 
-        background: rgba(255, 255, 255, 0.9);
-    width: 100%;
-    padding-right: 0em;
-    padding-left: 0em;
-        padding-top: 0em;
-        padding-bottom: 0em;
-        
-    
-   }
-
-        
-
-
-        
-
-    /* ----------------TYPOGRAPHY------------------ */
-
-
+h1, h2 {
+    font-weight: bold;
+    text-align: center;
+}
 
 
 h1 {
 
-font-weight: bolder;
-    font-family: 'Poiret', Arial, serif;
-    color; #2c072d;
-    line-height: 1.5em;
-    text-align: center;
+
+    font-size: 3.5em;
+    float: right;
+    margin-bottom: 1em;
+    font-family: 'Keania One', cursive;
+    color:darkred;
+}
+
+h2 {
+    
+    font-weight: normal;
+    font-size: 2.5em;
+    text-align: left;
     padding-top: 0.8em;
     padding-bottom: 0.5em;
-    border-bottom: 1px solid;
+    font-family: 'Keania One', cursive;
+    border-bottom: 1px solid darkblue;
+}
     
-
+img {max-width: 70%
+max-width:50%
 }
 
-p {
-    font-weight: 300;
-    font-family: 'Poiret', Arial, serif;
-    color; #993399;
-    line-height: 1.5em;
-    text-align: center;
-    padding-top: 0.8em;
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid;
+.paulascher {
+    max-width: 45%;
+        box-shadow: 8px 8px 5px #888888;
+    align-content: center;
 }
 
+.map {
+    max-width: 45%;
+        box-shadow: 8px 8px 5px #888888;
+    align-content: center;
 
-
-
-
-    h1 {font size: 10.78;}
-
-    p {font size: 4.56;}
-
-
-    
-
-    header h2 {
-
-        font-style: bold;
-
-        font-size: 1.8em;
-
-        padding: -0.5em 0 1em 0;
-
-    }
-
-    
-
-
-    
-
-    
-
-    blockquote{
-
-    
-
-    padding: 2em 0;
-
-    font-size: 1.75em;
-
-    line-height: 1.5em;
-
-    margin: 0;
-
-    
-
-    }
-
-    
-
-    blockquote cite{
-
-    font-size: .75em;
-
-    
-
-    }
-
-.back-to-top {
-    display:;
-    position:fixed;
-    bottom:20px:
-        right:20px;
-    background-color: #993399;
-    padding:20;
-    color; #ffffff;
     
 }
 
+.recordcover {
+    max-height: 70%;
+    align-content: center;
+}
+
+.background2 {
+    max-height: 45%;
+    box-shadow: 8px 8px 5px #888888;
+    align-content: center;
+    
+}
     
 
-    /* -------------LINKS ----------*/
+    .intro {
+
+    font-size:1.4;
+
+    line-height: 1.9em;
+
+    padding: 2em 0 2em 0}
+   
+
+
+
 
     
 
@@ -144,68 +116,43 @@ p {
 
     color: #000000;
 
-    text-decoration: none;
-        font-size: 1.1em;
+    text-decoration: underline;
 
     }
 
     
 
-    /*-----------------IMAGES------------*/
+    .anchor a{color:aqua;}
 
-img {
-    display:inherit;
-    max-width: 50%;
-    margin: 0em auto;
-    margin-bottom: 0em;
-    margin-top: 0em;
-}
-
-
-
-.icons {
-    margin-top: -2000em;
-    margin-bottom: -2000em;
-}
-
-.visual marque {
-    margin-top: -2000em;
-    margin-bottom: -2000em;
-}
-
-.album covers {
-    margin-top: -2000em;
-    margin-bottom: -2000em;
-}
-
-.master apprentice {
-    margin-top: -2000em;
-    margin-bottom: -2000em;
-}
-
-.home {
-    margin-bottom: auto;
-    margin-top: auto;
     
-}
 
-
+    
 
     /*-----------------NAV-------------*/
 
-    
 
-   a:link { 
+
+a:link { 
     text-decoration:none;
     letter-spacing: 2px;
     text-transform:uppercase;
 }
 
+/* unvisited link */
+a;link {
+    color: darkblue;
+    text-transform: uppercase;}
+
+/*visited link */
+a:link{
+    color:darkblue;
+    text-transform; uppercase; 
+    }
     
     
 nav {
-        border-top: 1px solid #540656;
-        border-bottom: 1px solid #540656;
+        border-top: 1px solid #333;
+        border-bottom: 1px solid #333;
     padding-bottom: 0.7em;
     padding-top: 0.7em;
     width 100%;
@@ -214,8 +161,8 @@ nav {
     
 nav ul {
     text-align: center; 
-    text-transform:lowercase;
-    color: #540656;
+    text-transform: uppercase;
+    color: darkred;
     letter-spacing: 2px;
     }
     
@@ -231,3 +178,68 @@ nav ul {
     
     }
 
+blockquote {
+    padding: 2em 0 2em 0;
+    line-height: 1.2em;
+    font-size: 1.30em;
+    margin: 0;
+    color: darkred;
+    border-top: 1px solid darkred;
+    border-bottom: 1px solid darkred;
+    text-align: center;
+}
+    
+    p{
+        padding-bottom: 0.5em;
+        padding-top: 0.5em;
+        padding-left: 0.5em;
+        line-height: 1.5em;
+    }
+    
+    /*------------------TABLET------------------*/
+
+@media (max-width: 50em) {
+    
+    body{
+        background:#f0f0f0;
+    }
+    
+    article{
+        width: 95%;
+        padding: 0.5em;
+    }
+
+    img {
+        display: block;
+        margin 1em auto;
+        padding: 0;
+        max-width: 100%;   
+    }
+}
+    
+    /*-----------------SMARTPHONE-----------------*/
+    
+    @media (max-width: 30em){
+        
+        body{
+            margin: auto 0;
+            background: #f0f0f0;
+            widh: 100%;
+            font-size: 110%;
+        }
+        
+        article{
+            width: 90%
+        }
+        
+        h1{font-sie:2.9em}
+        
+        h2 {font-size: 1.5em;
+        padding-top: 0.5em}
+        
+        blockquote{margin: 0;
+        line-height: 1.5em;}
+        
+        nav ul li {font-size: .75em;
+        margin: 10px}   
+    }
