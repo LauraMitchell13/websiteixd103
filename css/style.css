@@ -30,10 +30,10 @@ body {
     article { 
         background: rgba(255, 255, 255, 0.9);
     width: 100%;
-    padding-right: 1.5em;
-    padding-left: 1.5em;
+    padding-right: -20em;
+    padding-left: -20em;
         box-decoration-break: 6px 4px 4px #888888;
-        margin-top: 1em;
+        margin-top: -20em;
     
    }
 
@@ -96,13 +96,6 @@ p {
 
     
 
-    .intro {
-
-    font-size:1.4;
-
-    line-height: 1.9em;
-
-    padding: 2em 0 2em 0}
 
     
 
@@ -192,6 +185,10 @@ img {
 .master apprentice {
     margin-top: -2000em;
     margin-bottom: -2000em;
+}
+
+.home {
+    
 }
 
 
