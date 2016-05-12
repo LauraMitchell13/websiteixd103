@@ -154,7 +154,7 @@ p {
     /*-----------------IMAGES------------*/
 
 img {
-    display:inherit;
+    display:block;
     max-width: 50%;
     margin: 0em auto;
     margin-bottom: 0em;
