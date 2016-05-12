@@ -133,30 +133,33 @@ img {
 }
 
 
-
-.icons {
-    margin-top: -2000em;
-    margin-bottom: -2000em;
+.my work {
+    text-align:center;
+    position:relative;
+    margin: auto 0;
 }
 
-.visual marque {
-    margin-top: -2000em;
-    box-shadow: 8px 8px 5px #888888;
-    margin-bottom: -2000em;
+my work ul{
+    margin: 0;
+    padding -5em;
 }
 
-.album covers {
-    margin-top: -2000em;
-    box-shadow: 8px 8px 5px #888888;
-    margin-bottom: -2000em;
+.my work li {
+    margin: 0 7px;
+    padding: -5em;
+    list-style: none;
+    display: inline-block;
 }
 
-.master apprentice {
-    margin-top: -2000em;
-    box-shadow: 8px 8px 5px #888888;
-    margin-bottom: -2000em;
-}
 
+.my work img {
+    width: 350px;
+    height:250px;
+    opacity: 100%;
+    border: none;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
 .home {
     margin-bottom: auto;
     box-shadow: 8px 8px 5px #888888;
