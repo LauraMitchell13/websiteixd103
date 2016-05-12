@@ -134,19 +134,19 @@ img {
 
 
 .my work {
-    text-align:inherit;
+    text-align:centre;
     position:relative;
     margin: auto 0;
 }
 
 my work ul{
     margin: 0;
-    padding 2em;
+    padding -5em;
 }
 
 .my work li {
     margin: 0 7px;
-    padding: 2em;
+    padding: -5em;
     list-style: none;
     display: inline-block;
 }
