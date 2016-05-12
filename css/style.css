@@ -44,38 +44,54 @@ background-image; url(../images/websitebackground2.png)
 
 
 
-h1 {
+h1, h2, h3 {
+    margin-top: 1em;
+    font-weight: bold;
+    }
 
-font-weight: bolder;
-    font-family: 'Poiret One', cursive;
-    color; #2c072d;
-    line-height: 1.5em;
-    text-align: center;
-    padding-top: 0.8em;
-    padding-bottom: 0.5em;
-    
-    
 
+h2 {
+    color: #540656;
+    font-size: 2.5em;
+    letter-spacing: 2px;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
 }
 
-p {
-    font-weight: 300;
-    font-family: 'Poiret One', cursive;
-    color; #993399;
-    line-height: 1.5em;
-    text-align: center;
-    padding-top: 0.8em;
-    padding-bottom: 0.5em;
-     1px solid;
+.colour {
+    margin-top: 2em;
 }
 
+    
+h3 {
+    color: #993399;
+    font-size: 2em;
+    margin-top: 0.7em;
+    }
 
+p { font-family: 'Poiret One', cursive;
+    line-height: 1.7em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    font-size: 120%;
+    font-weight: 100;
+    }
 
+ul {
+    margin-top: 1em;
+    margin-bottom: 3em;
+    margin-left: 30px;
+    list-style-type:disc; 
+}
 
+li {line-height: 1.7em;
+    color: #73C5E5;}
 
-    h1 {font size: 10.78;}
-
-    p {font size: 4.56;}
+li p
+{
+    margin-bottom: -0em;
+  color: #2c072d;
+}
 
 
     
