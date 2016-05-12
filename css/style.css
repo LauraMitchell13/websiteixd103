@@ -141,12 +141,12 @@ img {
 
 my work ul{
     margin: 0;
-    padding 5em;
+    padding 2em;
 }
 
 .my work li {
     margin: 0 7px;
-    padding: 5em;
+    padding: 2em;
     list-style: none;
     display: inline-block;
 }
@@ -217,7 +217,7 @@ nav ul {
 nav li:
  { display: inline-block;
      margin-bottom: 8px;
-     padding-bottom: 2em;
+     padding-bottom: 5em;
     
     
 }
