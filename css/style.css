@@ -21,7 +21,10 @@ body {
     colour: #2c072d;
     line-height: 1.8em;
 
-    background-image: url(../images/websitebackground2.png);
+    background-image:
+        width: 100%;
+    
+        url(../images/websitebackground2.png);
 }
 
 
@@ -32,7 +35,6 @@ body {
     width: 100%;
     padding-right: 0em;
     padding-left: 0em;
-        box-decoration-break: 6px 4px 4px #888888;
         padding-top: 0em;
         padding-bottom: 0em;
         
