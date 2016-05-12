@@ -184,7 +184,7 @@ img {
 
     
     
-nav {padding: 1 em 0;
+nav {padding: 1em;
 margin-top: 3.5em;
 margin-bottom: 1em;
 position: absolute;
@@ -220,10 +220,6 @@ nav li:
     
 }
 
-a:hover:
-{ color: #540656;
-    
-}
 
 /*--------------------FOOTER---------------------*/
 footer {
