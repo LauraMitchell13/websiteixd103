@@ -200,7 +200,7 @@ width: 100%;
     
     
 nav ul {
-    text-align: left; 
+    text-align: centre; 
     color: #993399;
     letter-spacing: 2px;
     }
@@ -208,7 +208,7 @@ nav ul {
 
     nav ul li {
         position: static;
-        display: inline-block;
+        display: inline;
 	margin: 8px;
 
 	}
