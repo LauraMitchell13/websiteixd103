@@ -38,7 +38,6 @@ margin-top: 1em;}
     font-size: 3.5em;
     letter-spacing: 2px;
 }
-
         
 
     /* ----------------TYPOGRAPHY------------------ */
@@ -200,7 +199,8 @@ width: 100%;
     
     
 nav ul {
-    text-align: centre; 
+    text-align: center; 
+    text-transform:lowercase;
     color: #993399;
     letter-spacing: 2px;
     }
