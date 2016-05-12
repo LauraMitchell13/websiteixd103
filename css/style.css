@@ -165,14 +165,26 @@ img {
 }
 
 .icons {
-    margin-top: -50em;
-    margin-bottom: -50em;
+    margin-top: -500em;
+    margin-bottom: -500em;
 }
 
 .visual marque {
-    margin-top: inherit;
-    margin-bottom: inherit;
+    margin-top: -500em;
+    margin-bottom: -500em;
 }
+
+.album covers {
+    margin-top: -500em;
+    margin-bottom: -500em;
+}
+
+.master apprentice {
+    margin-top: -500em;
+    margin-bottom: -500em;
+}
+
+
 
     /*-----------------NAV-------------*/
 
