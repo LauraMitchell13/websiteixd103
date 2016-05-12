@@ -39,21 +39,6 @@ margin-top: 1em;}
     letter-spacing: 2px;
 }
 
-p{
-    line-height: 1.7em;
-    padding-bottom: 1em;
-    margin-bottom: 0em;
-    font-size: 110%;
-}
-
-.p1 {color: #444444;
-margin-bottom: 0;}
-.p2 {color: #444444;}
-.p3{ color: #444444;}
-.p4 {color: #444444;}
-.p5 {color: #444444;}
-.p6 {color: #444444;}
-.p7 {color: #444444;}
         
 
     /* ----------------TYPOGRAPHY------------------ */
@@ -215,8 +200,7 @@ width: 100%;
     
     
 nav ul {
-    text-align: center; 
-    text-transform:lowercase;
+    text-align: left; 
     color: #993399;
     letter-spacing: 2px;
     }
@@ -224,7 +208,7 @@ nav ul {
 
     nav ul li {
         position: static;
-        display: inline;
+        display: inline-block;
 	margin: 8px;
 
 	}
