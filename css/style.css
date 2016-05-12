@@ -20,7 +20,7 @@ head {
         margin: auto;
     colour: #2c072d;
     line-height: 1.8em;
-background-color: none;
+background-image; url(../images/websitebackground2.png)
 }
 
  body { 
@@ -53,7 +53,7 @@ font-weight: bolder;
     text-align: center;
     padding-top: 0.8em;
     padding-bottom: 0.5em;
-    border-bottom: 1px solid;
+    
     
 
 }
@@ -66,7 +66,7 @@ p {
     text-align: center;
     padding-top: 0.8em;
     padding-bottom: 0.5em;
-    border-bottom: 1px solid;
+     1px solid;
 }
 
 
@@ -77,18 +77,6 @@ p {
 
     p {font size: 4.56;}
 
-
-    
-
-    header h2 {
-
-        font-style: bold;
-
-        font-size: 1.8em;
-
-        padding: -0.5em 0 1em 0;
-
-    }
 
     
 
@@ -140,21 +128,25 @@ img {
 
 .visual marque {
     margin-top: -2000em;
+    box-shadow: 8px 8px 5px #888888;
     margin-bottom: -2000em;
 }
 
 .album covers {
     margin-top: -2000em;
+    box-shadow: 8px 8px 5px #888888;
     margin-bottom: -2000em;
 }
 
 .master apprentice {
     margin-top: -2000em;
+    box-shadow: 8px 8px 5px #888888;
     margin-bottom: -2000em;
 }
 
 .home {
     margin-bottom: auto;
+    box-shadow: 8px 8px 5px #888888;
     margin-top: auto;
     
 }
