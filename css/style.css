@@ -22,7 +22,7 @@ body {
     line-height: 1.8em;
 
     background-image:
-     url(../images/websitebackground2.png);
+     url(../images/websitebackground.png);
 }
 
 .home {
@@ -41,6 +41,16 @@ body {
     background: #540656;
 }
 
+ article { 
+        background: rgba(255, 255, 255, 0.9);
+    width: 100%;
+    padding-right: 0em;
+    padding-left: 0em;
+        padding-top: 0em;
+        padding-bottom: 0em;
+        
+    
+   }
 
         
 
