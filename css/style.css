@@ -26,10 +26,6 @@ h1, h2, h3, li, p, blockquote
 margin-top: 1em;}
 
 
-.purple {
-    margin-top: -2em;
-       background: purple ;
-    }
 
 .title { 
     margin-top: 0em;
@@ -109,6 +105,7 @@ li p
 
     /* -------------LINKS ----------*/
 
+
     
 
     a {
@@ -132,37 +129,37 @@ img {
     margin-top: 0em;
 }
 
-.monogram {
+monogram {
     padding-bottom: 4em;
     padding-top: 4em;
 }
 
 
 
-.icons {
+icons {
     margin-top: -2000em;
     margin-bottom: -2000em;
 }
 
-.visual marque {
-    margin-top: -2000em;
-    box-shadow: 8px 8px 5px #888888;
-    margin-bottom: -2000em;
-}
-
-.album covers {
+visual marque {
     margin-top: -2000em;
     box-shadow: 8px 8px 5px #888888;
     margin-bottom: -2000em;
 }
 
-.master apprentice {
+album covers {
     margin-top: -2000em;
     box-shadow: 8px 8px 5px #888888;
     margin-bottom: -2000em;
 }
 
-.home {
+master apprentice {
+    margin-top: -2000em;
+    box-shadow: 8px 8px 5px #888888;
+    margin-bottom: -2000em;
+}
+
+home {
     margin-bottom: auto;
     box-shadow: 8px 8px 5px #888888;
     margin-top: auto;
