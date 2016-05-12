@@ -154,7 +154,25 @@ align-content: center;
 
     
 
-    
+    /*-----------------IMAGES------------*/
+
+img {
+    display:block;
+    max-width: 100%;
+    margin: 0em auto;
+    margin-bottom: 0em;
+    margin-top: 0em;
+}
+
+.icons {
+    margin-top: -50em;
+    margin-bottom: -50em;
+}
+
+.visual marque {
+    margin-top: inherit;
+    margin-bottom: inherit;
+}
 
     /*-----------------NAV-------------*/
 
