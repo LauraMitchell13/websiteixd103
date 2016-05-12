@@ -134,7 +134,7 @@ img {
 
 
 .my work {
-    text-align:center;
+    text-align:inherit;
     position:relative;
     margin: auto 0;
 }
