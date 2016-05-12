@@ -21,7 +21,8 @@ body {
     colour: #2c072d;
     line-height: 1.8em;
 
-    background-image: url(../images/websitebackground2.png); }
+    background-image: url(../images/websitebackground2.png);
+}
 
 
 
@@ -47,7 +48,7 @@ section {padding: 2em 0 2em 0}
 
 
 
-h2 {
+h1 {
 
 font-weight: 400;
     font-family: 'Poiret', Arial, serif;
@@ -71,7 +72,7 @@ align-content: center;
 
     h1 {font size: 6.78;}
 
-    h2 {font size: 4.56;}
+    p {font size: 4.56;}
 
 
     
@@ -158,11 +159,13 @@ align-content: center;
 
 img {
     display:block;
-    max-width: 100%;
+    max-width: 50%;
     margin: 0em auto;
     margin-bottom: 0em;
     margin-top: 0em;
 }
+
+
 
 .icons {
     margin-top: -2000em;
@@ -209,8 +212,8 @@ a:link{
     
     
 nav {
-        border-top: 1px solid #333;
-        border-bottom: 1px solid #333;
+        border-top: 1px solid #540656;
+        border-bottom: 1px solid #540656;
     padding-bottom: 0.7em;
     padding-top: 0.7em;
     width 100%;
