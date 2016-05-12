@@ -201,16 +201,6 @@ img {
     text-transform:uppercase;
 }
 
-/* unvisited link */
-a;link {
-    color: #993399;
-    text-transform: uppercase;}
-
-/*visited link */
-a:link{
-    color: #993399;
-    text-transform; uppercase; 
-    }
     
     
 nav {
@@ -224,7 +214,7 @@ nav {
     
 nav ul {
     text-align: center; 
-    text-transform: uppercase;
+    text-transform:lowercase;
     color: #540656;
     letter-spacing: 2px;
     }
