@@ -124,6 +124,14 @@ li p
 
     /*-----------------IMAGES------------*/
 
+monogram {
+    display:block;
+    max-width: 50%;
+    margin: 0em auto;
+    margin-bottom: 0em;
+    margin-top: 0em;
+}
+
 
 .my work {
     text-align:center;
