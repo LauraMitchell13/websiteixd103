@@ -148,12 +148,9 @@ align-content: center;
     color: #000000;
 
     text-decoration: none;
+        font-size: 1.1em;
 
     }
-
-    
-
-    .anchor a{color:aqua;}
 
     
 
@@ -163,29 +160,48 @@ align-content: center;
 
     
 
-    nav {
-
-        border-top: 1px solid #333;
-    border-bottom: 1px solid #333;
-
-    }
-
-    
-
-    nav ul {
-
-text-align: center;
-text-transform: uppercase;
-letter-spacing: 2px;
-
-    }
-
-    
-
-nav ul li {
-
-display: inline;
-margin: 2px;
-    text-align: centre;
-
+   a:link { 
+    text-decoration:none;
+    letter-spacing: 2px;
+    text-transform:uppercase;
 }
+
+/* unvisited link */
+a;link {
+    color: #993399;
+    text-transform: uppercase;}
+
+/*visited link */
+a:link{
+    color: #993399;
+    text-transform; uppercase; 
+    }
+    
+    
+nav {
+        border-top: 1px solid #333;
+        border-bottom: 1px solid #333;
+    padding-bottom: 0.7em;
+    padding-top: 0.7em;
+    width 100%;
+}
+    
+    
+nav ul {
+    text-align: center; 
+    text-transform: uppercase;
+    color: #540656;
+    letter-spacing: 2px;
+    }
+    
+
+    nav ul li {
+	display: inline;
+	margin: 2px;
+	text-align: center;
+
+	}
+    
+    li { display: inline;
+    
+    }
