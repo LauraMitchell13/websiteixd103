@@ -221,7 +221,7 @@ nav ul {
     
 
     nav ul li {
-	display: inline;
+	display: inline-block;
 	margin: 2px;
 	text-align: center;
 
@@ -230,3 +230,7 @@ nav ul {
     li { display: inline;
     
     }
+
+a:hover {
+    color: #089393;
+}
