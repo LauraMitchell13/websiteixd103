@@ -164,33 +164,24 @@ img {
     
 }
 
-.portfolio {
-    text-align:center;
-    position:relative;
-    margin: auto 0;
+.social a {
+  opacity: 0.3;
+  transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
 }
 
-portfolio ul{
-    margin: 0;
-    padding -5em;
+.social a:hover {
+  opacity: 0.8;
 }
 
-.portfolio li {
-    margin: 0 7px;
-    padding: -5em;
-    list-style: none;
-    display: inline-block;
+.social li {
+  display: inline;
+  margin: 5px;
+  color: #444;
 }
 
 
-.portfolio img {
-    width: 350px;
-    height:250px;
-    opacity: 100%;
-    border: none;
-    margin-top: 2em;
-    margin-bottom: 2em;
-}
 
 .social {
     margin-top: 60px;
