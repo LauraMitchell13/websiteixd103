@@ -200,16 +200,15 @@ nav ul {
     
 
     nav ul li {
-	display: inline-block;
+        position: static;
+        display: inline;
 	margin: 8px;
 
 	}
     
-    li { display: inline;
+    nav li a: hover
+{ display: inline;
     
-    }
-
-a:hover {
     color: #993399;
 }
 
