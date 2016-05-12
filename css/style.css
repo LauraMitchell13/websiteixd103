@@ -238,10 +238,15 @@ nav ul {
 
 	}
     
-    nav li a: hover
-{ display: inline;
+nav li:
+ { display: inline;
     
-    color: #993399;
+    
+}
+
+a:hover:
+{ color: #993399;
+    
 }
 
 /*--------------------FOOTER---------------------*/
