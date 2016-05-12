@@ -20,25 +20,7 @@ body {
         margin: auto;
     colour: #2c072d;
     line-height: 1.8em;
-
-    background-image:
-     url(../images/websitebackground.png);
-}
-
-.home {
-    background: #993399;
-}
-
-.about me{
-    background: #540656;
-}
-
-.my work{
-    background: #993399;
-}
-
-.contact me{
-    background: #540656;
+background: 28b7c4;
 }
 
  article { 
@@ -54,7 +36,6 @@ body {
 
         
 
-section {padding: 2em 0 2em 0}
 
         
 
@@ -65,7 +46,7 @@ section {padding: 2em 0 2em 0}
 
 h1 {
 
-font-weight: 400;
+font-weight: bolder;
     font-family: 'Poiret', Arial, serif;
     color; #2c072d;
     line-height: 1.5em;
@@ -260,8 +241,3 @@ nav ul {
     
     }
 
-
-
-
-
-box-decoration-break: 6px 4px 4px #888888;
